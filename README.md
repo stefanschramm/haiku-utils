@@ -1,2 +1,5 @@
 # haiku-utils
-Utilities for Haiku OS
+
+## makebootabletiny
+
+Makes a Haiku partition bootable.
